@@ -8,9 +8,7 @@
 </table>
 
 ## Introduction
-This repo contains several models for video action recognition,
-including C3D, R2Plus1D, R3D, inplemented using PyTorch (0.4.0).
-Currently, we train these models on UCF101 and HMDB51 datasets.
+
 **More models and datasets will be available soon!**
 
 **Note: An interesting online web game based on C3D model is in [here](https://github.com/jfzhang95/project-demo).**
