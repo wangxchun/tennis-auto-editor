@@ -9,9 +9,7 @@
 
 ## Introduction
 
-**More models and datasets will be available soon!**
 
-**Note: An interesting online web game based on C3D model is in [here](https://github.com/jfzhang95/project-demo).**
 
 ## Installation
 The code was tested with Anaconda and Python 3.5. After installing the Anaconda environment:
